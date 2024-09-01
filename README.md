@@ -11,3 +11,5 @@ There are five machine learning approaches that has been applied in this study w
 - Dataset : the repository has two dataset which is the raw dataset (as Spotify Dataset.zip), and the preprocessing data set (as Spotify_preprocessing_data.zip). Also, It can found in One drive as https://universityofexeteruk-my.sharepoint.com/:f:/g/personal/wn258_exeter_ac_uk/EiA5mKDUQv1HkjOAJQSdb0MBmHjyxv9B5ISf41gef7VkmA?e=RxnJMq on both raw data as 'Spotify review data.csv' and cleaned data as 'data_preprocessing_spotify.csv'.
 - Applying machine learning approaches for sentiment analysis : It consist of 5 approaches, there are Multinomial Naive Bayes (NB), Support Vector Machine (SVM), Logistic Regression, Stochastic Gradient Descent (SGD), and Random Forest.
 - Key apects of each polarity: By using Aspect-based sentiment analysis (ABSA)
+
+Remark : Any issues for accessing file please contact wn258@exeter.ac.uk
